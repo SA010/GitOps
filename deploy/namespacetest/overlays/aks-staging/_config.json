@@ -1,7 +1,7 @@
 {
     "appName": "httpbin",
     "destNamespace": "httpbin",    
-    "srcPath": "apps/core/namespacetest/overlays/aks-staging",
+    "srcPath": "deploy/namespacetest/overlays/aks-staging",
     "srcTargetRevision": "",
     "labels": null,
     "annotations": null
