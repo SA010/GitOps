@@ -1,0 +1,2 @@
+# GitOps
+ArgoCD test repo
