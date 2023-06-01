@@ -1,0 +1,8 @@
+{
+    "appName": "httpbin",
+    "destNamespace": "httpbin",    
+    "srcPath": "apps/core/namespacetest/overlays/aks-acceptance",
+    "srcTargetRevision": "",
+    "labels": null,
+    "annotations": null
+  }
