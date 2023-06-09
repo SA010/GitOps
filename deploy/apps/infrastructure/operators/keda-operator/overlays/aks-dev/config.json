@@ -1,0 +1,8 @@
+{
+    "appName": "keda-operator",
+    "destNamespace": "keda-system",    
+    "srcPath": "deploy/apps/infrastructure/operators/keda-operator/overlays/aks-dev",
+    "srcTargetRevision": "",
+    "labels": null,
+    "annotations": null
+  }
